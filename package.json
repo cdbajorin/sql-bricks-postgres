@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "underscore": "^1.4.x",
-    "sql-bricks": "^2"
+    "sql-bricks": "git+https://github.com/cdbajorin/sql-bricks#d58e6794b52dcc43c58fbba0545162a683fd32ef"
   },
   "devDependencies": {
     "mocha": "1.21.x"
